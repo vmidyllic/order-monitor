@@ -1,4 +1,6 @@
-Project allows to use API from zakaz.UA (delivery_schedule/plan) and send message to Telegram if slot is available.
+
+Project allows to use API from zakaz.ua (delivery_schedule/plan) and send message to Telegram if slot is available.
+It really helps in COVID-19 quarantine situation when most slots are busy.
 
 Config.json should be placed in root folder.
 
