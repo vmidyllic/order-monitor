@@ -10,3 +10,6 @@ Config.json should be placed in root folder.
  ChatID     int64  `mapstructure:"chat_id"`
  MessageURL string `mapstructure:"message_url"
  ```
+ 
+Target url example
+`https://stores-api.zakaz.ua/stores/48215611/delivery_schedule/plan/`
